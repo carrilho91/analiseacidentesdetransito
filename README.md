@@ -24,10 +24,11 @@ O objetivo principal foi preparar o dataset para análises futuras com machine l
 
 Este MVP me permitiu evoluir bastante em relação ao anterior. Consegui aplicar na prática muitos conceitos aprendidos, explorar dados reais e ganhar mais confiança no processo de limpeza e preparação de dados. Estou muito satisfeita com o que aprendi e empolgada para as próximas etapas da pós.
 
-## Arquivo do Projeto
+## 🔗 Acesse o notebook no Google Colab:
 
-📁 Notebook: [`acidentes_transito_mvp2.ipynb`](acidentes_transito_mvp2.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carrilho91/analiseacidentesdetransito/blob/main/An%C3%A1lise_de_acidentes_de_tr%C3%A2nsito_no_Brasil.ipynb)
 
-Autora
 
-Carol Carrilho Correia Engenharia de Dados | Pós-graduação em Ciência de Dados PUC RIO – Análise de Acidentes de Trânsito no Brasil
+
+Aluna:
+Caroline Carrilho Correia | Pós-graduação em Ciência de Dados PUC RIO – Análise de Acidentes de Trânsito no Brasil
