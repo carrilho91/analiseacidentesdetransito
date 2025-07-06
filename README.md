@@ -29,6 +29,5 @@ Este MVP me permitiu evoluir bastante em relação ao anterior. Consegui aplicar
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carrilho91/analiseacidentesdetransito/blob/main/An%C3%A1lise_de_acidentes_de_tr%C3%A2nsito_no_Brasil.ipynb)
 
 
-
 Aluna:
 Caroline Carrilho Correia | Pós-graduação em Ciência de Dados PUC RIO – Análise de Acidentes de Trânsito no Brasil
