@@ -1,50 +1,32 @@
-Análise de Acidentes de Trânsito no Brasil – MVP 2 (Pós-Graduação)
+# Análise de Acidentes de Trânsito no Brasil (MVP - Módulo 2)
 
-Este repositório contém o notebook referente ao Módulo 2 (MVP 2) do projeto de Análise de Dados, desenvolvido durante a pós-graduação. O tema abordado foi:
+Este projeto foi desenvolvido como parte do segundo MVP da pós-graduação em Engenharia de Dados, com foco em pré-processamento de dados reais sobre acidentes de trânsito no Brasil, entre os anos de 2018 a 2023.
 
-Análise de Acidentes de Trânsito no Brasil (2018 a 2023)
+## Objetivo
 
-Objetivo do Projeto
+O objetivo principal foi preparar o dataset para análises futuras com machine learning, através de etapas como:
+- Exploração inicial
+- Limpeza de dados
+- Tratamento de valores nulos e não informados
+- Normalização e padronização
+- Geração de gráficos e estatísticas descritivas
+- Insights relevantes sobre acidentes no país
 
-Realizar o tratamento e o pré-processamento de um grande conjunto de dados sobre acidentes de trânsito, preparando o dataset para aplicação de modelos preditivos nos próximos módulos.
+## Destaques da Análise
 
-Etapas Desenvolvidas
+- Estados com maior número de acidentes: Minas Gerais e São Paulo
+- Tipos de acidente mais frequentes: Colisão e colisão lateral
+- Dias com mais acidentes: Sextas e sábados
+- Rodovias municipais concentram a maior parte dos acidentes
+- A maior parte das vítimas são feridos ilesos, com percentual de óbitos relativamente pequeno
 
-Carregamento e redução da base de dados
+## Conclusão
 
-Análise exploratória (gráficos, histogramas, estatísticas)
+Este MVP me permitiu evoluir bastante em relação ao anterior. Consegui aplicar na prática muitos conceitos aprendidos, explorar dados reais e ganhar mais confiança no processo de limpeza e preparação de dados. Estou muito satisfeita com o que aprendi e empolgada para as próximas etapas da pós.
 
-Tratamento de valores nulos, "desconhecido" e "não informado"
+## Arquivo do Projeto
 
-Normalização e padronização dos dados numéricos
-
-Criação de novos atributos (feature engineering leve)
-
-Análise de correlações e distribuições estatísticas
-
-Hipóteses Investigadas
-
-O número de acidentes tem aumentado com o tempo?
-
-Quais estados têm mais acidentes? E mais óbitos?
-
-Quais são os tipos mais comuns de acidente?
-
-Existe relação com dias da semana e horários?
-
-Há impacto das condições meteorológicas?
-
-As rodovias influenciam na incidência?
-
-Conclusão
-
-O notebook traz uma série de visualizações e métricas que respondem a essas perguntas, mostrando insights relevantes sobre os acidentes de trânsito no Brasil. O projeto encerra com o dataset tratado e pronto para as próximas etapas de modelagem.
-
-Como Executar
-
-Você pode abrir o notebook diretamente no Google Colab usando este link:
-
-👉 Abrir no Colab
+📁 Notebook: [`acidentes_transito_mvp2.ipynb`](acidentes_transito_mvp2.ipynb)
 
 Autora
 
