@@ -48,4 +48,4 @@ Você pode abrir o notebook diretamente no Google Colab usando este link:
 
 Autora
 
-Carol CarrilhoEngenharia de Dados | Pós-graduação em Ciência de DadosMódulo 2 – Análise de Acidentes de Trânsito no Brasil
+Carol Carrilho Correia Engenharia de Dados | Pós-graduação em Ciência de Dados PUC RIO – Análise de Acidentes de Trânsito no Brasil
